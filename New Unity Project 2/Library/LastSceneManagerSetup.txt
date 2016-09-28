@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GameDesign/Scenes/UndecidedScene.unity
+  isLoaded: 1
+  isActive: 1
